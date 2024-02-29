@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'http://ashishkoshy.me/findingFalcone',
-  fallbackApiBaseUrl: 'http://ashishkoshy.me/findingFalcone',
+  apiBaseUrl: 'https://ashishkoshy.me/findingFalcone',
+  fallbackApiBaseUrl: 'https://ashishkoshy.me/findingFalcone',
 };
