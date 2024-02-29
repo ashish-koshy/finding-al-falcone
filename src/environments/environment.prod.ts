@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiBaseUrl: 'https://findfalcone.herokuapp.com',
+  apiBaseUrl: 'http://ashishkoshy.me/findingFalcone',
   fallbackApiBaseUrl: 'http://ashishkoshy.me/findingFalcone',
 };
